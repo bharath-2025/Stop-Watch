@@ -14,7 +14,7 @@
     --background-color: black;
 }
 
-
+/* body section */
 body{
     display:flex;
     flex-direction: column;
